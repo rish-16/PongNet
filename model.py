@@ -44,8 +44,8 @@ def play(model, window):
 	prediction = model.predict(screen)
 	index = (prediction[0].argmax())
 	actions = [0, 1, 2, 3, 4, 5]
-	# action = actions[index]
-	action = np.random.choice(actions)
+	action = actions[index]
+	print (action)
 
 	return action
 
