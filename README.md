@@ -49,5 +49,3 @@ python3 pong.py 250000 200
 ```
 
 where ```250000``` is the number of games and ```200``` is the number of time-steps per game. Training the model with these arguments takes about 2 days on a standard issue MacBook Pro CPU.
-
----
