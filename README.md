@@ -2,8 +2,6 @@
 
 4 layer ConvNet playing the Atari game **Pong**:
 
----
-
 Added the saved JSON model architecture and the training weights in the files **pong_model.json** and **pong_weights.h5**.
 
 ---
